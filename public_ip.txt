@@ -1,0 +1,2 @@
+Public EC2 ip: 44.202.32.192
+Public EC2 ip: 54.81.244.130
